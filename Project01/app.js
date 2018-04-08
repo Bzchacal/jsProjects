@@ -4,4 +4,4 @@ function putText () {
   document.querySelector('.calss_').innerHTML = 'hello calss'
   document.querySelector('#id_').innerHTML = 'hello idd'
 }
-putText
+putText()
